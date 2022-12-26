@@ -1,0 +1,31 @@
+[{
+    "name": "以太坊 Ethereum 主网络",
+    "rpc": "https://mainnet.infura.io/v3/61979dd617324f26850d61bedaf68ac1",
+    "chainID": "1",
+    "symbol": "ETH",
+    "browser": "https://etherscan.io",
+    "decimals": 18,
+    "image": "bnb.svg",
+    "remove": true
+  },
+  {
+    "rpc": "https://bsc-dataseed.binance.org",
+    "name": "BSC 主网络",
+    "image": "bnb.svg",
+    "chainID": "56",
+    "symbol": "BNB",
+    "browser": "https://bscscan.com",
+    "decimals": 18,
+    "remove": true
+  },
+  {
+    "rpc": "https://data-seed-prebsc-1-s3.binance.org:8545/",
+    "name": "BSC 测试网",
+    "image": "bnb.svg",
+    "chainID": "97",
+    "symbol": "TBNB",
+    "browser": "https://testnet.bscscan.com",
+    "decimals": 18,
+    "remove": true
+  }
+]

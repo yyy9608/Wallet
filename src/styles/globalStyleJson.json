@@ -1,0 +1,414 @@
+{
+  "m1": {
+    "margin": 10
+  },
+  "m2": {
+    "margin": 20
+  },
+  "m3": {
+    "margin": 30
+  },
+  "m4": {
+    "margin": 40
+  },
+  "m5": {
+    "margin": 50
+  },
+  "ml5px": {
+    "marginLeft": 5
+  },
+  "ml1": {
+    "marginLeft": 10
+  },
+  "ml2": {
+    "marginLeft": 20
+  },
+  "ml3": {
+    "marginLeft": 30
+  },
+  "ml4": {
+    "marginLeft": 40
+  },
+  "ml5": {
+    "marginLeft": 50
+  },
+  "mt5px": {
+    "marginTop": 5
+  },
+  "mt1": {
+    "marginTop": 10
+  },
+  "mt2": {
+    "marginTop": 20
+  },
+  "mt3": {
+    "marginTop": 30
+  },
+  "mt4": {
+    "marginTop": 40
+  },
+  "mt5": {
+    "marginTop": 50
+  },
+  "mr5px": {
+    "marginRight": 5
+  },
+  "mr1": {
+    "marginRight": 10
+  },
+  "mr2": {
+    "marginRight": 20
+  },
+  "mr3": {
+    "marginRight": 30
+  },
+  "mr4": {
+    "marginRight": 40
+  },
+  "mr5": {
+    "marginRight": 50
+  },
+  "mb5px": {
+    "marginBottom": 5
+  },
+  "mb1": {
+    "marginBottom": 10
+  },
+  "mb2": {
+    "marginBottom": 20
+  },
+  "mb3": {
+    "marginBottom": 30
+  },
+  "mb4": {
+    "marginBottom": 40
+  },
+  "mb5": {
+    "marginBottom": 50
+  },
+  "mlr1": {
+    "marginLeft": 10,
+    "marginRight": 10
+  },
+  "mlr2": {
+    "marginLeft": 20,
+    "marginRight": 20
+  },
+  "mlr3": {
+    "marginLeft": 30,
+    "marginRight": 30
+  },
+  "mlr4": {
+    "marginLeft": 40,
+    "marginRight": 40
+  },
+  "mlr5": {
+    "marginLeft": 50,
+    "marginRight": 50
+  },
+  "mtb1": {
+    "marginTop": 10,
+    "marginBottom": 10
+  },
+  "mtb2": {
+    "marginTop": 20,
+    "marginBottom": 20
+  },
+  "mtb3": {
+    "marginTop": 30,
+    "marginBottom": 30
+  },
+  "mtb4": {
+    "marginTop": 40,
+    "marginBottom": 40
+  },
+  "mtb5": {
+    "marginTop": 50,
+    "marginBottom": 50
+  },
+  "p1": {
+    "padding": 10
+  },
+  "p2": {
+    "padding": 20
+  },
+  "p3": {
+    "padding": 30
+  },
+  "p4": {
+    "padding": 40
+  },
+  "p5": {
+    "padding": 50
+  },
+  "pl5px": {
+    "paddingLeft": 5
+  },
+  "pl1": {
+    "paddingLeft": 10
+  },
+  "pl2": {
+    "paddingLeft": 20
+  },
+  "pl3": {
+    "paddingLeft": 30
+  },
+  "pl4": {
+    "paddingLeft": 40
+  },
+  "pl5": {
+    "paddingLeft": 50
+  },
+  "pt5px": {
+    "paddingTop": 5
+  },
+  "pt1": {
+    "paddingTop": 10
+  },
+  "pt2": {
+    "paddingTop": 20
+  },
+  "pt3": {
+    "paddingTop": 30
+  },
+  "pt4": {
+    "paddingTop": 40
+  },
+  "pt5": {
+    "paddingTop": 50
+  },
+  "pr5px": {
+    "paddingRight": 5
+  },
+  "pr1": {
+    "paddingRight": 10
+  },
+  "pr2": {
+    "paddingRight": 20
+  },
+  "pr3": {
+    "paddingRight": 30
+  },
+  "pr4": {
+    "paddingRight": 40
+  },
+  "pr5": {
+    "paddingRight": 50
+  },
+  "pb5px": {
+    "paddingBottom": 5
+  },
+  "pb1": {
+    "paddingBottom": 10
+  },
+  "pb2": {
+    "paddingBottom": 20
+  },
+  "pb3": {
+    "paddingBottom": 30
+  },
+  "pb4": {
+    "paddingBottom": 40
+  },
+  "pb5": {
+    "paddingBottom": 50
+  },
+  "plr1": {
+    "paddingLeft": 10,
+    "paddingRight": 10
+  },
+  "plr2": {
+    "paddingLeft": 20,
+    "paddingRight": 20
+  },
+  "plr3": {
+    "paddingLeft": 30,
+    "paddingRight": 30
+  },
+  "plr4": {
+    "paddingLeft": 40,
+    "paddingRight": 40
+  },
+  "plr5": {
+    "paddingLeft": 50,
+    "paddingRight": 50
+  },
+  "ptb1": {
+    "paddingTop": 10,
+    "paddingBottom": 10
+  },
+  "ptb2": {
+    "paddingTop": 20,
+    "paddingBottom": 20
+  },
+  "ptb3": {
+    "paddingTop": 30,
+    "paddingBottom": 30
+  },
+  "ptb4": {
+    "paddingTop": 40,
+    "paddingBottom": 40
+  },
+  "ptb5": {
+    "paddingTop": 50,
+    "paddingBottom": 50
+  },
+  "fz10": {
+    "fontSize": 10
+  },
+  "fz12": {
+    "fontSize": 12
+  },
+  "fz14": {
+    "fontSize": 14
+  },
+  "fz16": {
+    "fontSize": 16
+  },
+  "fz18": {
+    "fontSize": 18
+  },
+  "fz20": {
+    "fontSize": 20
+  },
+  "fz22": {
+    "fontSize": 22
+  },
+  "fz24": {
+    "fontSize": 24
+  },
+  "fz26": {
+    "fontSize": 26
+  },
+  "fz28": {
+    "fontSize": 28
+  },
+  "fz30": {
+    "fontSize": 30
+  },
+  "tac": {
+    "textAlign": "center"
+  },
+  "taj": {
+    "textAlign": "justify"
+  },
+  "tal": {
+    "textAlign": "left"
+  },
+  "tar": {
+    "textAlign": "right"
+  },
+  "row": {
+    "display": "flex",
+    "flexDirection": "row"
+  },
+  "rowCenter": {
+    "display": "flex",
+    "justifyContent": "center",
+    "alignItems": "center",
+    "flexDirection": "row"
+  },
+  "rowItems": {
+    "display": "flex",
+    "alignItems": "center",
+    "flexDirection": "row"
+  },
+  "rowJustify": {
+    "display": "flex",
+    "justifyContent": "center",
+    "flexDirection": "row"
+  },
+  "rowEnd": {
+    "display": "flex",
+    "justifyContent": "flex-end",
+    "flexDirection": "row"
+  },
+  "rowBetween": {
+    "display": "flex",
+    "justifyContent": "space-between",
+    "flexDirection": "row"
+  },
+  "rowAround": {
+    "display": "flex",
+    "justifyContent": "space-around",
+    "flexDirection": "row"
+  },
+  "rowEvenly": {
+    "display": "flex",
+    "justifyContent": "space-evenly",
+    "flexDirection": "row"
+  },
+  "alignItems": {
+    "alignItems": "center"
+  },
+  "column": {
+    "display": "flex",
+    "flexDirection": "column"
+  },
+  "columnCenter": {
+    "display": "flex",
+    "justifyContent": "center",
+    "alignItems": "center",
+    "flexDirection": "column"
+  },
+  "columnItems": {
+    "display": "flex",
+    "alignItems": "center",
+    "flexDirection": "column"
+  },
+  "columnJustify": {
+    "display": "flex",
+    "justifyContent": "center",
+    "flexDirection": "column"
+  },
+  "columnEnd": {
+    "display": "flex",
+    "justifyContent": "flex-end",
+    "flexDirection": "column"
+  },
+  "columnBetween": {
+    "display": "flex",
+    "justifyContent": "space-between",
+    "flexDirection": "column"
+  },
+  "columnAround": {
+    "display": "flex",
+    "justifyContent": "space-around",
+    "flexDirection": "column"
+  },
+  "columnEvenly": {
+    "display": "flex",
+    "justifyContent": "space-evenly",
+    "flexDirection": "column"
+  },
+  "colorError": {
+    "color": "red"
+  },
+  "colorSuccess": {
+    "color": "green"
+  },
+  "colorWarning": {
+    "color": "yellow"
+  },
+  "colorMain": {
+    "color": "blue"
+  },
+  "colorSub": {
+    "color": "#D8D8D8"
+  },
+  "colorWhite": {
+    "color": "white"
+  },
+  "colorBlack": {
+    "color": "black"
+  },
+  "fw100": {
+    "fontWeight": 100
+  },
+  "fw550": {
+    "fontWeight": "bold"
+  },
+  "fw1000": {
+    "fontWeight": 100
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "lsyWallet",
+  "displayName": "lsyWallet",
+  "android": {
+    "package": "com.anonymous.lsywallet"
+  },
+  "ios": {
+    "bundleIdentifier": "com.anonymous.lsywallet"
+  },
+  "splash": {
+    "image": "./src/static/launch_screen.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#000"
+  }
+}
